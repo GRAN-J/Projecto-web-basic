@@ -11,7 +11,7 @@ header.scrolled nav ul li a {
   color: #fff; /* Cambia el color de los enlaces a blanco cuando el fondo se vuelve oscuro */
 }
 
-/* Es una pequeña transición al header*/
+/* Es una pequeña transicion al header*/
 header {
   transition: background-color 0.3s ease-in-out;
 }
@@ -30,7 +30,7 @@ header {
 }
 
 header.scrolled {
-  background-color: #333; /* Cambio a un fondo sólido cuando se hace scroll */
+  background-color: #333; /* Cambio a un fondo solido cuando se hace scroll */
 }
 
 header nav ul {
@@ -70,7 +70,7 @@ header nav ul li a:hover {
   margin-bottom: 1em;
 }
 
-/* Diseño de los productos: imágenes ocupando todo el ancho */
+/* Diseño de los productos: imagenes ocupando todo el ancho */
 .product-grid {
   display: flex;
   flex-direction: column;
@@ -106,7 +106,7 @@ header nav ul li a:hover {
   text-align: center;
 }
 
-/* Efecto hover para las imágenes */
+/* Efecto hover para las imagenes */
 .product-item:hover img {
   transform: scale(1.05);
 }
@@ -166,7 +166,7 @@ header nav ul li a:hover {
   background-color: #e63600;
 }
 
-/* Estilo del pie de página */
+/* Estilo del pie de pagina */
 footer {
   text-align: center;
   padding: 2em;
