@@ -16,6 +16,6 @@ Este proyecto es una página web que simula el diseño de la tienda en línea ll
 
 ## Pasos para Ejecutar el Proyecto
 
-1 Si quieres, clona el repositorio con el comando: git clone https://github.com/GRAN-J/Projecto-web-basic.git
-2 Abre el archivo index.html en el navegador de tu preferencia.
-3 Si quieres personalizar el contenido, puedes entrar en los archivos index.html y styles.css y modificarlos con el editor de texto que prefieras.
+- Si quieres, clona el repositorio con el comando: git clone https://github.com/GRAN-J/Projecto-web-basic.git
+- Abre el archivo index.html en el navegador de tu preferencia.
+- Si quieres personalizar el contenido, puedes entrar en los archivos index.html y styles.css y modificarlos con el editor de texto que prefieras.
