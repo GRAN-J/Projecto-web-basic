@@ -59,6 +59,6 @@ Ejecuta este comando desde la carpeta del proyecto:
 
    Realiza los cambios que desees para personalizar la página según tus necesidades.
 
-7. **Video explicativo si no quedo claro el proceso**
-El video explicativo para una instalacion correcta seria:
-https://youtu.be/2hP5hmP7jjk
+7. **Video explicativo**  
+   Si el proceso de instalación no quedó claro, puedes consultar el siguiente video explicativo para una instalación correcta:  
+   [Video explicativo de instalación](https://youtu.be/2hP5hmP7jjk)
