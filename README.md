@@ -91,7 +91,7 @@ ejemplo de datos de la API:
 
 ### Formulario de Contacto
 
-![Formulario de contacto](assets/formulario.png)
+![Formulario de contacto](/public/images/formulario.png)
 
 9. **Despliegue**
    [El proyecto está disponible en la plataforma de netlify.com](https://dapper-choux-625484.netlify.app/)
