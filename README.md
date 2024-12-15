@@ -83,11 +83,11 @@ ejemplo de datos de la API:
 
 ### Página Principal
 
-![Página principal del proyecto](assets/pagina-principal.png)
+![Página principal del proyecto](public/images/pagina-principal.png)
 
 ### Productos Destacados
 
-![Sección de productos destacados](assets/productos.png)
+![Sección de productos destacados](public/images/productos.png)
 
 ### Formulario de Contacto
 
