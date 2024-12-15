@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta
+      name="description"
+      content="GRAN J Works, tienda de productos tecnológicos con diseños exclusivos y modernos."
+    />
+    <meta
+      name="keywords"
+      content="teclado mecánico, keycaps, accesorios, tienda, diseño, tecnología"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Proyecto Web - Página prototipo a Rama Works</title>
+  </head>
+  <body>
+    <!-- Esto es el encabezado principal -->
+    <header>
+      <h1>GRAN J Works</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">Sobre Nosotros</a></li>
+          <li><a href="#products">Productos</a></li>
+          <li><a href="#contact">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Esto es la seccion de productos -->
+    <section id="products">
+      <h2>Productos Destacados</h2>
+      <!-- Contenedor para los productos -->
+      <div id="products-container"></div>
+      <div class="product-grid">
+        <div class="product-item">
+          <img src="images/product1.jpg" alt="Teclado mecanico custom " />
+          <h3>Teclado Mecánico Personalizado</h3>
+        </div>
+        <div class="product-item">
+          <img src="images/product2.jpg" alt="teclado custom con keycaps gmk" />
+          <h3>Keycaps Exclusivas</h3>
+        </div>
+        <div class="product-item">
+          <img src="images/product3.jpg" alt="case de un teclado custom" />
+          <h3>Accesorios de Diseño</h3>
+        </div>
+      </div>
+    </section>
+
+    <!-- Esto es la seccion de sobre nosotros en la pagina -->
+    <section id="about">
+      <h2>Sobre Nosotros</h2>
+      <p>
+        Somos una tienda enfocada en proporcionar productos de alta calidad con
+        un diseño moderno y funcional.
+      </p>
+      <img src="images/about.png" alt="Logo de la tienda GRAN J Works" />
+    </section>
+
+    <!-- Esto es la seccion de contacto -->
+    <section id="contact">
+      <h2>Contáctanos</h2>
+      <form>
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Correo Electrónico:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Mensaje:</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+
+    <!-- Esto es el pie de pagina -->
+    <footer>
+      <p>&copy; 2024 Projecto prototipo rama. Todos los derechos reservados.</p>
+    </footer>
+    <script src="scripts.js"></script>
+  </body>
+</html>
